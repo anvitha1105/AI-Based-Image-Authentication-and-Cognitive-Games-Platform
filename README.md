@@ -1,11 +1,27 @@
 
 # CognitiveArena - Human vs AI Cognitive Platform
 
+<img width="1882" height="879" alt="Screenshot 2025-09-29 203806" src="https://github.com/user-attachments/assets/cfc77d53-b4c4-40f4-bf98-bd75ceb71666" />
+
+
 A full-stack web application that allows users to test their cognitive abilities against advanced AI systems through interactive games and challenges.
 
 ## Overview
 
-CognitiveArena is an interactive platform where humans can compete against AI in various cognitive tasks. The platform features multiple games designed to test different cognitive abilities including pattern recognition, text analysis, and memory recall. Users can track their performance, compare scores with AI baselines, and climb the global leaderboard.It also has the feauture of authnetication where the user uploads an image and the model classifies it as AI  or Real.
+CognitiveArena is an interactive platform
+where humans can compete against AI in various cognitive tasks. The
+platform features multiple games designed to test different cognitive abilities including pattern recognition, text analysis, and memory recall. Users can track their performance, compare scores with AI baselines, and climb the global leaderboard.It also has the feauture of authnetication where the user uploads an image and the model classifies it as AI  or Real.
+
+
+<img width="1889" height="871" alt="Screenshot 2025-09-29 203845" src="https://github.com/user-attachments/assets/5042095c-5293-4093-9e3a-b487260c1185" />
+<img width="1878" height="854" alt="Screenshot 2025-09-29 203910" src="https://github.com/user-attachments/assets/a3a49325-ed49-488e-9bad-28be0f9ec388" />
+
+
+<img width="1899" height="880" alt="Screenshot 2025-09-29 203829" src="https://github.com/user-attachments/assets/159dc8e0-d361-4772-8c98-42a0c0379dcd" />
+
+<img width="899" height="788" alt="Screenshot 2025-10-14 050847" src="https://github.com/user-attachments/assets/5aba32d8-84de-453f-9762-e9900eb25c28" />
+
+<img width="1881" height="855" alt="Screenshot 2025-09-29 203935" src="https://github.com/user-attachments/assets/a629dfcc-06f4-43a4-b35e-ba0b0059fd88" />
 
 ## Features
 
